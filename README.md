@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Tim-Albiges
+- 👀 I’m interested in signal and image analysis, data fusion, and Artificial Intelligence 
+- 🌱 I’m currently learning about digital signal processing.
+- 📫 you can reach me through my LinkedIn profile.
