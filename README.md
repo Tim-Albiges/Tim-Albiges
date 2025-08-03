@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tim-Albiges
 - 👀 I’m interested in signal and image analysis, data fusion, data science and Artificial Intelligence.
-- As I'm blind, I am interested in accessibility and assistive technologies, especially human-system interactions. 
-- 🌱 I’m currently learning deeply avout Machine Learning and AI applied to healthcare, focusing of Respiratory diseases, cancers, and heart diseases.
+- As I'm blind, I also have interests in accessibility and assistive technologies, especially human-system interactions. 
+- 🌱 I’m currently investigating the utilisation of Machine Learning and AI applied to healthcare, with a focus on respiratory diseases, cancers, and heart diseases.
 - 📫 you can reach me through my LinkedIn profile.
